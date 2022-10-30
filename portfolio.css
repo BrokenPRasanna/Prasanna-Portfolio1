@@ -1,0 +1,83 @@
+body{
+  background-image: url("backround image.jpg");
+    font-family: "Special Elite", sans-serif;
+
+}
+
+h1{
+  text-align: center;
+  text-shadow: 2px -2px white;
+  color: navy;
+  font-family: cursive;
+  text-decoration: underline double;
+  
+}
+
+img{
+  width: 180px;
+  height: 180px;
+  float: left;
+  border-radius: 50%;
+  margin-right: 30px;
+  border-width: 5px;
+  border-color: aquamarine;
+  border-style: double;
+  margin-bottom: 30px;
+  
+}
+
+div{
+  box-shadow: 2px 2px grey;
+  
+}
+
+p{
+  font-size: 18px;
+
+
+}
+h6{
+  font-size: 16px;
+}
+
+.typeimg{
+	width: 350px;
+	border-radius: 0px;
+	border-style: solid;
+	border-color: blue;
+	height: 250px;
+	margin: 40px;
+	
+}
+
+hr{
+	width:100%;
+}
+
+h3{
+	color: black;
+	text-shadow: 2px 2px 6px black;
+	text-decoration: underline;
+	
+}
+
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: darkviolet;
+}
+
+/* mouse over link */
+a:hover {
+  color: lightpink;
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color: lightblue;
+}
+
